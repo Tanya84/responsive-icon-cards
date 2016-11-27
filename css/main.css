@@ -30,3 +30,24 @@ html{
   margin-right: auto;
   margin-left: auto;
 }
+
+.card {
+  margin-top: .75rem;
+  margin-bottom: 1.5rem;
+}
+
+.card-body h2 {
+  font-weight: normal;
+  margin-top: .75rem;
+  margin-bottom: 0;
+}
+
+.card-body p {
+  margin: 0;
+}
+
+@media only screen and (min-width: 25em) {
+
+
+
+}
